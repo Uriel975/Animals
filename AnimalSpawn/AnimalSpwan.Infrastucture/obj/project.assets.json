@@ -5892,11 +5892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 1\\AnimalSpawn\\AnimalSpwan.Infrastucture\\AnimalSpwan.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 2\\AnimalSpawn\\AnimalSpwan.Infrastucture\\AnimalSpwan.Infraestructure.csproj",
       "projectName": "AnimalSpwan.Infraestructure",
-      "projectPath": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 1\\AnimalSpawn\\AnimalSpwan.Infrastucture\\AnimalSpwan.Infraestructure.csproj",
+      "projectPath": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 2\\AnimalSpawn\\AnimalSpwan.Infrastucture\\AnimalSpwan.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\xoolc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 1\\AnimalSpawn\\AnimalSpwan.Infrastucture\\obj\\",
+      "outputPath": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 2\\AnimalSpawn\\AnimalSpwan.Infrastucture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5916,8 +5916,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 1\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
-              "projectPath": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 1\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
+            "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 2\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+              "projectPath": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 2\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
             }
           }
         }
@@ -5968,7 +5968,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

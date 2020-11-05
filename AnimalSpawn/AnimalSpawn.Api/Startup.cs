@@ -1,3 +1,4 @@
+using AnimalSpawn.Application.Services;
 using AnimalSpawn.Domain.Interfaces;
 using AnimalSpwan.Infraestructure.Data;
 using AnimalSpwan.Infraestructure.Repositories;
@@ -31,6 +32,8 @@ namespace AnimalSpawn.Api
             options.UseSqlServer(Configuration.GetConnectionString("AnimalSpawnEF"))
             );
             services.AddTransient<IAnimalRepository, AnimalRepository>();
+            services.AddTransient<IAnimalService, AnimalService>();
+
             services.AddMvc().AddFluentValidation(options =>
             options.RegisterValidatorsFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EDhIDrbCBarMjMzjYiH1zUWrEa/HgCyrgXAofs2KVVsNJe20E4+ao2SgaFqkraeT/QXhjwOYCqiuKrg8SEwrZQ==",
+  "dgSpecHash": "w1FJ+FdwAAPElYF31nFRlAXNKPCenw+1h/zmD18t3PV4qsqIgZZDpA/m23phAU2f9ZSJIYd3X/i1lhdPj7XfuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 1\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj",
+  "projectFilePath": "C:\\Users\\xoolc\\Documents\\4 CUATRIMESTRE\\Aplicaciones Web\\Unidad 2\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xoolc\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\xoolc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
